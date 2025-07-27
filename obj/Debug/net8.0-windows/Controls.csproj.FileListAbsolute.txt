@@ -1,0 +1,16 @@
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls_MarkupCompile.cache
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls_MarkupCompile.lref
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.dll
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\refint\Controls.dll
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.pdb
+D:\ws_VisualStudio\Controls\bin\Debug\net8.0-windows\Controls.deps.json
+D:\ws_VisualStudio\Controls\bin\Debug\net8.0-windows\Controls.dll
+D:\ws_VisualStudio\Controls\bin\Debug\net8.0-windows\Controls.pdb
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.g.resources
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.AssemblyInfoInputs.cache
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.AssemblyInfo.cs
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\Controls.csproj.CoreCompileInputs.cache
+D:\ws_VisualStudio\Controls\obj\Debug\net8.0-windows\ref\Controls.dll

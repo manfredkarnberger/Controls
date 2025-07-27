@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ws_VisualStudio\\Controls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EAC571-F767-42C1-B865-DEF89C76CFE8}|Controls.csproj|d:\\ws_visualstudio\\controls\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68EAC571-F767-42C1-B865-DEF89C76CFE8}|Controls.csproj|solutionrelative:themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EAC571-F767-42C1-B865-DEF89C76CFE8}|Controls.csproj|d:\\ws_visualstudio\\controls\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EAC571-F767-42C1-B865-DEF89C76CFE8}|Controls.csproj|solutionrelative:roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\ws_VisualStudio\\Controls\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Themes\\Generic.xaml",
+              "ToolTip": "D:\\ws_VisualStudio\\Controls\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-27T16:54:05.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "D:\\ws_VisualStudio\\Controls\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "RoundedButton.cs",
+              "ToolTip": "D:\\ws_VisualStudio\\Controls\\RoundedButton.cs",
+              "RelativeToolTip": "RoundedButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:53:16.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
