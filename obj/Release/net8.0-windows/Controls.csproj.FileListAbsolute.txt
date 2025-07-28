@@ -10,6 +10,7 @@ D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.GeneratedMSBuild
 D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.AssemblyInfoInputs.cache
 D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.AssemblyInfo.cs
 D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.csproj.CoreCompileInputs.cache
+D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.sourcelink.json
 D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.dll
 D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\refint\Controls.dll
 D:\ws_VisualStudio\Controls\obj\Release\net8.0-windows\Controls.pdb
